@@ -41,16 +41,17 @@ autos-deportivos/
         </div>
     </section>
 
-    <section id="contacto">
+<section id="contacto">
         <h2>Contacto</h2>
         <p>Correo: ventas@autosdeportivos.com</p>
     </section>
 
-    <footer>
+    
+<footer>
         <p>&copy; 2026 Autos Deportivos</p>
     </footer>
 
-    <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
 body {
