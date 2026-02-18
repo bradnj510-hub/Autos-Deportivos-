@@ -107,4 +107,10 @@ footer {
     background-color: #111;
     color: white;
 }
+document.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+        alert('Gracias por su interés. Nos pondremos en contacto.');
+    });
+});
+
 
