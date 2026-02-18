@@ -1,5 +1,3 @@
-# Autos-Deportivos-
-Sitio web de ventas de autos deportivos
 autos-deportivos/
 ├─ index.html
 ├─ style.css
@@ -35,15 +33,17 @@ autos-deportivos/
                 <img src="images/lamborghini.jpg" alt="Lamborghini">
                 <h3>Lamborghini Huracán</h3>
                 <p>Precio: $300,000</p>
-                <button>Comprar</button
-                                    </section>
+                <button>Comprar</button>
+            </div>
+    <!-- Puedes agregar más autos aquí -->
+        </div>
+    </section>
 
 <section id="contacto">
         <h2>Contacto</h2>
         <p>Correo: ventas@autosdeportivos.com</p>
     </section>
 
-    
 <footer>
         <p>&copy; 2026 Autos Deportivos</p>
     </footer>
@@ -108,8 +108,3 @@ footer {
     color: white;
 }
 
-document.querySelectorAll('button').forEach(btn => {
-    btn.addEventListener('click', () => {
-        alert('Gracias por su interés. Nos pondremos en contacto.');
-    });
-});
