@@ -22,7 +22,7 @@ autos-deportivos/
         </nav>
     </header>
 
-    <section id="autos">
+ <section id="autos">
         <h2>Autos Disponibles</h2>
         <div class="autos-grid">
             <div class="auto">
