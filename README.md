@@ -35,11 +35,8 @@ autos-deportivos/
                 <img src="images/lamborghini.jpg" alt="Lamborghini">
                 <h3>Lamborghini Huracán</h3>
                 <p>Precio: $300,000</p>
-                <button>Comprar</button>
-            </div>
-            <!-- Puedes agregar más autos aquí -->
-        </div>
-    </section>
+                <button>Comprar</button
+                                    </section>
 
 <section id="contacto">
         <h2>Contacto</h2>
