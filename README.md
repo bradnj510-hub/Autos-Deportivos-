@@ -1,8 +1,3 @@
-autos-deportivos/
-├─ index.html
-├─ style.css
-├─ script.js
-└─ images/   (aquí van fotos de autos)
 <!DOCTYPE html>
 <html lang="es">
 <head>
